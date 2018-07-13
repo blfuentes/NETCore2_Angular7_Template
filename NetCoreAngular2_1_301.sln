@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAngular2_1_301", "NetCoreAngular2_1_301\NetCoreAngular2_1_301.csproj", "{C184CEEE-7A49-4CC1-8042-6F43C6E6F83A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C184CEEE-7A49-4CC1-8042-6F43C6E6F83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C184CEEE-7A49-4CC1-8042-6F43C6E6F83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C184CEEE-7A49-4CC1-8042-6F43C6E6F83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C184CEEE-7A49-4CC1-8042-6F43C6E6F83A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		LessCompiler = c184ceee-7a49-4cc1-8042-6f43c6e6f83a
+		SolutionGuid = {072A0F23-3663-4D57-9EE8-965D6BFA5DA1}
+	EndGlobalSection
+EndGlobal
