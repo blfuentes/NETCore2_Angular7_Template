@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAngular2_1_301", "NetCoreAngular2_1_301\NetCoreAngular2_1_301.csproj", "{C184CEEE-7A49-4CC1-8042-6F43C6E6F83A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAngular2_1", "NetCoreAngular2_1\NetCoreAngular2_1.csproj", "{C184CEEE-7A49-4CC1-8042-6F43C6E6F83A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

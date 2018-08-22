@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.SpaServices.AngularCli;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace NetCoreAngular2_1_301
+namespace NetCoreAngular2_1
 {
     public class Startup
     {

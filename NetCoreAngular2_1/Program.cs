@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace NetCoreAngular2_1_301
+namespace NetCoreAngular2_1
 {
     public class Program
     {

@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "NetCoreAngular2_1_301": {
+    "NetCoreAngular2_1": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -49,18 +49,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "NetCoreAngular2_1_301:build"
+            "browserTarget": "NetCoreAngular2_1:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "NetCoreAngular2_1_301:build:production"
+              "browserTarget": "NetCoreAngular2_1:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "NetCoreAngular2_1_301:build"
+            "browserTarget": "NetCoreAngular2_1:build"
           }
         },
         "test": {
@@ -94,7 +94,7 @@
         }
       }
     },
-    "NetCoreAngular2_1_301-e2e": {
+    "NetCoreAngular2_1-e2e": {
       "root": "",
       "sourceRoot": "e2e",
       "projectType": "application",
@@ -103,7 +103,7 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "./protractor.conf.js",
-            "devServerTarget": "NetCoreAngular2_1_301:serve"
+            "devServerTarget": "NetCoreAngular2_1:serve"
           }
         },
         "lint": {
@@ -120,7 +120,7 @@
       }
     }
   },
-  "defaultProject": "NetCoreAngular2_1_301",
+  "defaultProject": "NetCoreAngular2_1",
   "schematics": {
     "@schematics/angular:component": {
       "prefix": "app",

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace NetCoreAngular2_1_301.Pages
+namespace NetCoreAngular2_1.Pages
 {
     public class ErrorModel : PageModel
     {
