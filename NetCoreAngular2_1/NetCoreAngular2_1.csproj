@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <TypeScriptCompileBlocked>true</TypeScriptCompileBlocked>
-    <TypeScriptToolsVersion>2.7</TypeScriptToolsVersion>
+    <TypeScriptToolsVersion>2.9</TypeScriptToolsVersion>
     <IsPackable>false</IsPackable>
     <SpaRoot>ClientApp\</SpaRoot>
     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
@@ -12,6 +12,11 @@
     <BuildServerSideRenderer>false</BuildServerSideRenderer>
     <AssemblyName>NetCoreAngular2_1</AssemblyName>
     <RootNamespace>NetCoreAngular2_1</RootNamespace>
+    <Version>1.5.0</Version>
+    <Authors>Bernardo Lloret-Fuentes</Authors>
+    <Company>Bernardo Lloret-Fuentes</Company>
+    <Product>Net Core 2.1 Angular 6 Template</Product>
+    <PackageId>NetCore2_1_Angular6</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
