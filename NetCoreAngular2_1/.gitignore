@@ -26,6 +26,7 @@ Bin/
 obj/
 obj/Debug/
 Obj/
+NetCoreAngular2_1_301/
 
 # Visual Studio 2015 cache/options directory
 .vs/
