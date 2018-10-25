@@ -24,6 +24,7 @@ bld/
 bin/
 Bin/
 obj/
+obj/Debug/
 Obj/
 
 # Visual Studio 2015 cache/options directory
