@@ -1,4 +1,4 @@
-# NETCore2_Angular7_Template
+# NETCore 2.1 Angular7 Template
 Template for VS Studio 2017: ASP.NET Core 2.1.XXX and Angular7
 
 The VSIX Package can be found in the Marketplace from Visual Studio
